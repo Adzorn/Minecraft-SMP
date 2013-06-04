@@ -11,6 +11,7 @@ import cpw.mods.fml.relauncher.SideOnly;
 test1
 test2
 test3
+blah
 public class PlaneType extends DriveableType
 {
     public PlaneType(BufferedReader file, String pack)
